@@ -7,3 +7,7 @@ git init -> git remote -> git pull(레파지토리가 비워져 있으면 할 �
 -> git push origin master(깃허브에 변동사항 업로드)
 
 *사진이나 설명 업로드 ->[README.md](http://readme.md/)(비주얼 코드) 사진을 올리고 싶을 땐 -issues-> new issue -> 사진을 드래그해서 필요한 문장 습득->README에 작성
+
+EX)
+
+![image-20200717010833272](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200717010833272.png)
