@@ -10,4 +10,4 @@ git init -> git remote -> git pull(레파지토리가 비워져 있으면 할 �
 
 EX)
 
-![image-20200717010833272](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200717010833272.png)
+<img src="C:\Users\user\Desktop\GITHUB\git-menual\with picture.PNG" alt="with picture" />
