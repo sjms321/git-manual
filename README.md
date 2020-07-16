@@ -10,4 +10,4 @@ git init -> git remote -> git pull(레파지토리가 비워져 있으면 할 �
 
 EX)
 
-<img src="C:\Users\user\Desktop\GITHUB\git-menual\with picture.PNG" alt="with picture" />
+![with picture](https://user-images.githubusercontent.com/67422547/87695660-b90a4280-c7ca-11ea-9347-ed02422a2e5f.PNG)
